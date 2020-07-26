@@ -1,0 +1,5 @@
+print("This file was created within RStudio")
+print("And now it lives on GitHub")
+savehistory("P:/Duke/testing/Testing,R.Rhistory")
+save.image("P:/Duke/testing/Testing,R.R.RData")
+savehistory("P:/Duke/testing/Testing.R")
